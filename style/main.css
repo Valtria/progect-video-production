@@ -25,7 +25,7 @@ body{
 }
 
 .wrapper{
-  background: url(/img/hero/hero.png) center top no-repeat, url(/img/hero/bottom-pic.png)  center bottom 306px no-repeat;
+  background: url(/progect-video-production/img/hero/hero.png) center top no-repeat, url(/progect-video-production/img/hero/bottom-pic.png)  center bottom 306px no-repeat;
 }
 
 .container {
@@ -450,7 +450,7 @@ p{
   display: block;
   width: 531px;
   height: 505px;
-  background: url(/img/home-page/cameraman.png) center center / cover no-repeat;
+  background: url(/progect-video-production/img/home-page/cameraman.png) center center / cover no-repeat;
 }
 
 .about__item{
@@ -534,34 +534,34 @@ p{
 }
 
 .social__item--icon--tg .social__link{
-  background-image: url(/img/home-page/telegram.png);
+  background-image: url(/progect-video-production/img/home-page/telegram.png);
 }
 
 .social__item--icon--tg .social__link:hover{
-  background-image: url(/img/home-page/t.png) ;
+  background-image: url(/progect-video-production/img/home-page/t.png) ;
 }
 
 .social__item--icon-vk .social__link{
-  background-image: url(/img/home-page/vk.png);
+  background-image: url(/progect-video-production/img/home-page/vk.png);
 }
 
 .social__item--icon-vk .social__link:hover{
-  background-image: url(/img/home-page/vk-two.png);
+  background-image: url(/progect-video-production/img/home-page/vk-two.png);
 }
 
 .social__item--icon--fb .social__link{
-  background-image: url(/img/home-page/f.png);
+  background-image: url(/progect-video-production/img/home-page/f.png);
 }
 
 .social__item--icon--fb .social__link:hover{
-  background-image: url(/img/home-page/f2.png);
+  background-image: url(/progect-video-production/img/home-page/f2.png);
 }
 
 .social__item--icon--inst .social__link{
-  background-image: url(/img/home-page/in.png);
+  background-image: url(/progect-video-production/img/home-page/in.png);
 }
 
 .social__item--icon--inst .social__link:hover{
-  background-image: url(/img/home-page/in-two.png);
+  background-image: url(/progect-video-production/img/home-page/in-two.png);
 }
 
