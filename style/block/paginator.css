@@ -1,0 +1,42 @@
+/*Пагинатор*/
+
+.paginator{
+  text-align: center;
+}
+
+.paginator__list,.paginator__text{
+  display: inline-flex;
+  line-height: 20px;
+}
+
+.paginator__text{
+  margin-right: 24px;
+}
+
+.paginator__item{
+  display: inline-flex;
+}
+
+.paginator__item--active .paginator__link{
+  background:  #FF5500;
+}
+
+.paginator__link{
+  display: block;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  text-decoration: none;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.paginator__link:hover{
+  background:  #FF5500;
+}
+
+/*Страница услуги*/
+.service__paginator{
+  color: black;
+  align-self: center;
+}

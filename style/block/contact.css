@@ -1,0 +1,26 @@
+.contact{
+  text-align: right;
+}
+
+.contact__namber{ 
+  width: 191px;
+  font-style: normal;
+  color: inherit;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 35px;
+}
+
+.contact__info{
+  text-decoration: none;
+  color: #FF3D00;
+  font-size: 13px;
+  line-height: 20px;
+  text-decoration: underline;
+}
+
+.contact__text{
+  font-size: 11px;
+  line-height: 20px;
+  color: #9A9A9A;
+}

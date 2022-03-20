@@ -1,0 +1,9 @@
+.background__title{
+  background: url(/img/hero/hero.png) center top no-repeat, url(/img/hero/bottom-pic.png)  center bottom 306px no-repeat;
+  background-color: #17191C;
+}
+
+
+.background__services{
+  background: url(/img/about-img/top-line.png) center top no-repeat;
+}

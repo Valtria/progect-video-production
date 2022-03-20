@@ -1,0 +1,61 @@
+/*Новости*/
+.events{
+  margin-bottom: 151px;
+}
+
+.events__heading{
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 49px;
+  text-transform: uppercase;
+  margin-bottom: 51px;
+}
+
+.events__item{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 51px;
+}
+
+.news{
+  position: relative;
+  overflow: hidden;
+  width: 557px;
+}
+
+
+.news__text{
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 25px 30px;
+  min-height: 215px;
+}
+
+.news-img{
+  width: 557px;
+  height: 394px;
+  object-fit: cover;
+}
+
+.news__two-img{
+  opacity: 40%;
+}
+
+.news__text-one{
+  line-height: 21px;
+}
+
+.news__text-two{
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.news__text-three{
+  font-size: 17px;
+  line-height: 21px;
+  margin-bottom: 0;
+}

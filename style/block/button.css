@@ -1,0 +1,42 @@
+/*Кнопки*/
+.button{
+  width: 197px;
+  height: 57px;
+  background: #FF3D00;
+  border-radius: 35px;
+  border: 2px solid #FF5500;
+  padding: 18px 47px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  align-items: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  display: inline-block;
+}
+
+.button:hover{
+  background: #DA0100;
+  border-color: #DA0100;
+  color: #FFFFFF;
+}
+
+.button__type{
+  background: #FFFFFF;;
+  border-color: #FF3D00;
+  color: #FF3D00;
+}
+
+.button__type:hover{
+  background: #DA0100;
+  border-color: #DA0100;
+  color: #FFFFFF;
+}
+
+
+
+.about__button{
+  width: 174px;
+  padding: 18px 40px;
+}
+

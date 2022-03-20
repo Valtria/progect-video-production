@@ -1,0 +1,53 @@
+
+.social__item{
+  display: flex;
+  margin-right: 10px;
+}
+
+.social{
+  display: flex;
+}
+
+.social__item:last-child{
+  margin-right: 0;
+}
+
+.social__link{
+  display: block;
+  text-decoration: none;
+  width: 36px;
+  height: 36px;
+}
+
+.social__item--icon--tg .social__link{
+  background-image: url(/img/home-page/telegram.png);
+}
+
+.social__item--icon--tg .social__link:hover{
+  background-image: url(/img/home-page/t.png) ;
+}
+
+.social__item--icon-vk .social__link{
+  background-image: url(/img/home-page/vk.png);
+}
+
+.social__item--icon-vk .social__link:hover{
+  background-image: url(/img/home-page/vk-two.png);
+}
+
+.social__item--icon--fb .social__link{
+  background-image: url(/img/home-page/f.png);
+}
+
+.social__item--icon--fb .social__link:hover{
+  background-image: url(/img/home-page/f2.png);
+}
+
+.social__item--icon--inst .social__link{
+  background-image: url(/img/home-page/in.png);
+}
+
+.social__item--icon--inst .social__link:hover{
+  background-image: url(/img/home-page/in-two.png);
+}
+

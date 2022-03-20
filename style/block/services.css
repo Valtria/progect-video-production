@@ -1,0 +1,104 @@
+/*Сервисы*/
+.services{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 174px;
+}
+
+.services__item{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: black;
+}
+
+.services__item--title{
+  background: #FFFFFF;
+  border: 5px solid #FFFFFF;
+  border-radius: 5px;
+  padding: 36px 34px 53px 18px;
+  margin-right: 28px;
+}
+
+.services__item:last-child{
+  margin-right: 0;
+}
+
+.service-img{
+  margin-bottom: 30px;
+  width: 76px;
+  height: 77px;
+}
+
+.service__marceting-img{
+  margin-bottom: 28px;
+  width: 84px;
+  height: 80px;
+}
+
+.service__text-heading{
+  margin-bottom: 17px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  margin-bottom: 13px;
+}
+
+.service__text-item {
+  display: inline-flex;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 125%;
+  margin-bottom: 25px;
+}
+
+.service__text-three{
+  flex: 1;
+  line-height: 22px;
+  font-size: 15px;
+  min-width: 306px;
+  margin-bottom: 33px;
+}
+
+.services__item--border{
+  border-color: #CCCCCC;
+}
+
+.service__button{
+  align-items: flex-end;
+}
+
+
+/*Страница услуги*/
+.provider{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 63px;
+}
+
+.service-png{
+  display: flex;
+  width: 460px;
+  height: 333px;
+}
+
+.services__item--direction{
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  margin-bottom: 50px;
+}
+
+.service__text-type{
+  display: flex;
+  flex-direction: column;
+  padding: 12px 0px 20px 57px;
+}
+
+.service__text-top{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 49px;
+  margin-bottom: 28px;
+}

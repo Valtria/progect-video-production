@@ -1,0 +1,22 @@
+.menu{
+  width: 264px;
+}
+
+.menu__list{
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu__link{
+  font-size: 14px;
+  color: inherit;
+  line-height: 19px;
+}
+
+.menu__link:hover{
+  color: #DA0100;
+}
+
+.menu__link--activ{
+  color: #DA0100;
+}

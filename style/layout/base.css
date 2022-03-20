@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+}
+
+html, body {
+  padding: 0px;
+  margin: 0px;
+}
+
+body{ 
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.42;
+  color: #FFFFFF;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  max-width: 1140px;
+  margin: auto;
+}
+
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+ul li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: inherit; 
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin: 0;
+  font-weight: normal;
+}
+
+p{
+  margin-top: 0;
+}
+
+
+
+
+
