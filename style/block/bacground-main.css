@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: center;
   z-index: -10;
-  background: url(/img/index/bg.png) center bottom / cover no-repeat;
+  background: url(/progect-video-production/img/index/bg.png) center bottom / cover no-repeat;
 }
 
 .welcome::after{
@@ -19,7 +19,7 @@
   top: 0;
   bottom: 0;
   z-index: -5;
-  background: url(/img/index/rec.png) center center no-repeat;
+  background: url(/progect-video-production/img/index/rec.png) center center no-repeat;
 }
 
 .central{
