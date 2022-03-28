@@ -5,7 +5,7 @@
 .stock__container{
   display: flex;
   align-items: center;
-  background: url(/img/reviews/party.png) center right no-repeat;
+  background: url(/progect-video-production/img/reviews/party.png) center right no-repeat;
   min-height: 363px;
 }
 
