@@ -1,10 +1,8 @@
 /*Кнопки*/
 .button{
-  width: 197px;
-  height: 57px;
   background: #FF3D00;
   border-radius: 35px;
-  border: 2px solid #FF5500;
+  border: 2px solid transparent;
   padding: 18px 47px;
   font-weight: 700;
   font-size: 14px;
@@ -15,9 +13,12 @@
   display: inline-block;
 }
 
+.service__button{
+  width: 197px; 
+}
+
 .button:hover{
   background: #DA0100;
-  border-color: #DA0100;
   color: #FFFFFF;
 }
 
@@ -33,10 +34,21 @@
   color: #FFFFFF;
 }
 
-
-
 .about__button{
   width: 174px;
   padding: 18px 40px;
 }
 
+.button__black{
+  background-color: #8E8E8E;
+  width: 168px;
+
+}
+
+.button__black:hover{
+  background-color: #2B2B2B;
+}
+
+.button__form{
+  justify-content: end;
+}

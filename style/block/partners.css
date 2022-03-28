@@ -26,10 +26,17 @@
   gap: 61px;
 }
 
+
 .partners__item{
   display: inline-block;
   width: calc(80%/4);
   text-align: center;
+  filter: grayscale(1);
+}
+
+.partners__item:hover{
+  filter: grayscale(0);
+  transition: filter 1s;
 }
 
 .partners__item:nth-child(4n+1){
@@ -39,3 +46,4 @@
 .partners__item:nth-child(4n){
   text-align: end;
 }
+

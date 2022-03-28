@@ -9,7 +9,6 @@
 .breadcrumbs__item{
   display: flex;
   align-items: center;
-  text-decoration-line: underline;
   color: #9A9A9A;
   font-size: 17.9775px;
   line-height: 30px;
@@ -17,6 +16,8 @@
 
 .breadcrumbs__item:after{
   content: "/";
+  margin-left: 5px;
+  margin-right: 5px;
   color: #9A9A9A;
 }
 
@@ -25,6 +26,7 @@
 }
 
 .breadcrumbs__item--active{
+  text-decoration-line: underline;
   font-style: normal;
   font-weight: 700;
 }

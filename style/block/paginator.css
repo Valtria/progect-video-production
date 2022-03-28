@@ -18,7 +18,8 @@
 }
 
 .paginator__item--active .paginator__link{
-  background:  #FF5500;
+  background-color:  #FF5500;
+  color: #FFFFFF;
 }
 
 .paginator__link{
@@ -32,7 +33,8 @@
 }
 
 .paginator__link:hover{
-  background:  #FF5500;
+  color: #FFFFFF;;
+  background-color:  #FF5500;
 }
 
 /*Страница услуги*/

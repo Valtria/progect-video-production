@@ -1,0 +1,23 @@
+.stock{
+  background-color: #373737;
+}
+
+.stock__container{
+  display: flex;
+  align-items: center;
+  background: url(/img/reviews/party.png) center right no-repeat;
+  min-height: 363px;
+}
+
+.stock__heading{
+  width: 553px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 65px;
+  color: #FFFFFF;
+}
+
+.stock__heading--color{
+  color: #FF5300;
+}

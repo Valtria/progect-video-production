@@ -3,6 +3,9 @@
   display: flex;
   justify-content: center;
   align-items: flex-start;
+}
+
+.services__start{
   margin-bottom: 174px;
 }
 
@@ -70,35 +73,3 @@
 }
 
 
-/*Страница услуги*/
-.provider{
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 63px;
-}
-
-.service-png{
-  display: flex;
-  width: 460px;
-  height: 333px;
-}
-
-.services__item--direction{
-  display: flex;
-  align-items: flex-start;
-  flex-direction: row;
-  margin-bottom: 50px;
-}
-
-.service__text-type{
-  display: flex;
-  flex-direction: column;
-  padding: 12px 0px 20px 57px;
-}
-
-.service__text-top{
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 49px;
-  margin-bottom: 28px;
-}

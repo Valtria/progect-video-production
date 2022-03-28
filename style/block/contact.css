@@ -24,3 +24,40 @@
   line-height: 20px;
   color: #9A9A9A;
 }
+
+.contact-graf{
+  position: relative;
+}
+
+.contact-graf:hover .contact__work{
+  display: block;
+}
+
+.contact__work{
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  padding: 15px 19px;
+  text-align: start;
+  position: absolute;
+  width: 160px;
+  left: 31px;
+  top: 100%;
+  border: 1px solid transparent;
+  border-radius: 9px;
+  display: none;
+}
+
+.contact__weekday{
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 21px;
+  color: #1E1F20;
+}
+
+.contact__dinner{
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 21px;
+  color: #1E1F20;
+}

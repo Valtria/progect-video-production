@@ -1,0 +1,14 @@
+.base-map{  
+  background: #E7E7E7;
+  border: 1px solid transparent;
+  border-radius: 35px;
+  padding: 10px 25px;
+  font-size: 13px;
+  line-height: 18px;
+  color: #303030;;
+  text-align: center;
+}
+
+.name__border{
+  background-color: #F2D4C9;
+}
