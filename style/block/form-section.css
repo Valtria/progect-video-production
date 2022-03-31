@@ -26,6 +26,7 @@
   box-sizing: border-box;
   border-radius: 5px;
   padding: 20px 30px;
+  outline: none;
 }
 
 .form__input:focus{
